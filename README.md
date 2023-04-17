@@ -48,9 +48,9 @@ Please go to section <a href="#CiteThisWork">cite this work</a> to learn how to 
 	<li>Python version 3.8.10</li>
 	<li>Python libraries:</li>
 	<ul>
-		<li><strong>sPyNNaker8</strong>: last stable version <a href="http://spinnakermanchester.github.io/development/gitinstall.html">compiled from source</a></li>
+		<li><strong>sPyNNaker</strong></li>
 		<li><strong>PyQt5</strong> 5.15.6</li>
-		<li><strong>sPyMem</strong>: 0.0.4</li>
+		<li><strong>sPyMem</strong></li>
 	</ul>
 </ol>
 </p>
