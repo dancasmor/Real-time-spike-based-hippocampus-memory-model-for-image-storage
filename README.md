@@ -3,7 +3,7 @@
 
 <h2 name="Description">Description</h2>
 <p align="justify">
-Code on which the paper entitled "Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model" is based, published in 2023 IEEE International Symposium on Circuits and Systems (ISCAS).
+Code on which the paper entitled "Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model" is based, published in 2023 IEEE International Symposium on Circuits and Systems <a href="https://iscas2023.org/">(ISCAS)</a>.
 </p>
 <p align="justify">
 A real-time demonstration of hippocampal bio-inspired spiking memory operation, presented in <a href="https://arxiv.org/abs/2206.04924">previous work</a> and present in the Python <a href="https://pypi.org/project/sPyMem/">sPyMem</a> library, is presented through an image learning and recall application. The user is allowed through a GUI to create 5x5 pixel black and white images that will be spatially encoded and sent to memory. The result of the simulation during both operations is represented as a reconstructed image based on the output spiking activity of the network. Moreover, an additional application is included that allows to visualise the internal spiking activity of the network during the simulation in detail for each time step.
