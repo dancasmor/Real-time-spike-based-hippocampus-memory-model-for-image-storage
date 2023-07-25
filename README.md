@@ -3,7 +3,7 @@
 
 <h2 name="Description">Description</h2>
 <p align="justify">
-Code on which the paper entitled "Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model" is based, sent to a congress and awaiting review.
+Code on which the paper entitled "Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model" is based, published in 2023 IEEE International Symposium on Circuits and Systems (ISCAS).
 </p>
 <p align="justify">
 A real-time demonstration of hippocampal bio-inspired spiking memory operation, presented in <a href="https://arxiv.org/abs/2206.04924">previous work</a> and present in the Python <a href="https://pypi.org/project/sPyMem/">sPyMem</a> library, is presented through an image learning and recall application. The user is allowed through a GUI to create 5x5 pixel black and white images that will be spatially encoded and sent to memory. The result of the simulation during both operations is represented as a reconstructed image based on the output spiking activity of the network. Moreover, an additional application is included that allows to visualise the internal spiking activity of the network during the simulation in detail for each time step.
@@ -83,7 +83,23 @@ After finishing the simulation, the simulation result can be saved by clicking o
 
 <h2 name="CiteThisWork">Cite this work</h2>
 <p align="justify">
-Still under construction.
+<b>APA</b>: Casanueva-Morato, D., Ayuso-Martinez, A., Dominguez-Morales, J. P., Jimenez-Fernandez, A., & Jimenez-Moreno, G. (2023, May). Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model. In 2023 IEEE International Symposium on Circuits and Systems (ISCAS) (pp. 1-1). IEEE.
+</p>
+<p align="justify">
+<b>ISO 690</b>: CASANUEVA-MORATO, Daniel, et al. Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model. En 2023 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2023. p. 1-1.
+</p>
+<p align="justify">
+<b>MLA</b>: Casanueva-Morato, Daniel, et al. "Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model." 2023 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2023.
+</p>
+<p align="justify">
+<b>BibTeX</b>: @inproceedings{casanueva2023live,
+  title={Live Demonstration: Bio-inspired implementation of a sparse-learning spike-based hippocampus memory model},
+  author={Casanueva-Morato, Daniel and Ayuso-Martinez, Alvaro and Dominguez-Morales, Juan P and Jimenez-Fernandez, Angel and Jimenez-Moreno, Gabriel},
+  booktitle={2023 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages={1--1},
+  year={2023},
+  organization={IEEE}
+}
 </p>
 
 <h2 name="Credits">Credits</h2>
