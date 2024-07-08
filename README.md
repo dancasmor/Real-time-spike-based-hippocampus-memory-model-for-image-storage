@@ -48,7 +48,7 @@ Please go to section <a href="#CiteThisWork">cite this work</a> to learn how to 
 	<li>Python version 3.8.10</li>
 	<li>Python libraries:</li>
 	<ul>
-		<li><strong>sPyNNaker</strong></li>
+		<li><p align="justify"><strong>sPyNNaker8</strong> or sPyNNaker (changing "import spynnaker8 as sim" to import "pyNN.spiNNaker as sim")</p></li>
 		<li><strong>PyQt5</strong> 5.15.6</li>
 		<li><strong>sPyMem</strong></li>
 	</ul>
@@ -106,9 +106,9 @@ After finishing the simulation, the simulation result can be saved by clicking o
 <p align="justify">
 The author of the original idea is Daniel Casanueva-Morato while working on a research project of the <a href="http://www.rtc.us.es/">RTC Group</a>.
 
-This research was partially supported by the Spanish grant MINDROB (PID2019-105556GB-C33/AEI/10.13039/501100011033). 
+This work is supported by grant MINDROB (PID2019-105556GB-C33) funded by MICIU/AEI /10.13039/501100011033. 
 
-D. C.-M. was supported by a "Formación de Profesor Universitario" Scholarship from the Spanish Ministry of Education, Culture and Sport.
+D. C.-M. was supported by a “Formación de Profesorado Universitario” Scholarship from the Spanish Ministry of Science, Innovation and Universities.
 </p>
 
 
